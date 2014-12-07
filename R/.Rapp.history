@@ -1,0 +1,9 @@
+cddir
+history
+setwd("/Users/josephmisiti/mathandpencil/projects/open-source-contributions/doing-bayesian-data-analysis/R")
+ls
+source("BayesUpdate.R")
+source("BayesUpdate.R")
+source("BayesUpdate.R")
+source("BayesUpdate.R")
+source("BayesUpdate.R")
